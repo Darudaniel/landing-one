@@ -1,0 +1,14 @@
+.header {
+    background-color: var(--primary-color);
+    height: 145px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 300px;
+    margin:  25px;
+}
